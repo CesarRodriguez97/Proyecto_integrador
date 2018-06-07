@@ -1,6 +1,6 @@
 # Proyecto_integrador
 Tema:
-•	Narcisismo
+<ul>Narcisismo</ul>
 •	Niños desamparados
 Descripción:
 •	Generar una serie de recursos didácticos dirigido a padres de familia, para que consulten los diferentes rasgos o aspectos que forman el narcicismo infantil, con el fin de orientar la educación de los hijos.
